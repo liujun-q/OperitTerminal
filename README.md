@@ -6,11 +6,11 @@
 
 ## 概述
 
-这是一款在 Android 设备上运行的 Ubuntu 24 系统，作为核心组件被集成于 Operit 应用中，为用户提供了一个功能完整、性能强大的移动 Linux 环境。其最大的优势在于与 Operit 的深度集成，提供无缝衔接的开发与操作体验。
+这是一款在 Android 设备上运行的 Alpine Linux 系统，作为核心组件被集成于 Operit 应用中，为用户提供了一个功能完整、性能强大的移动 Linux 环境。其最大的优势在于与 Operit 的深度集成，提供无缝衔接的开发与操作体验。
 
 ## 主要特性
 
-- **完整的 Ubuntu 24 环境**: 在 Android 设备上提供桌面级的 Linux 体验。
+- **完整的 Alpine Linux 环境**: 在 Android 设备上提供轻量级的 Linux 体验。
 - **一键环境配置**: 内置自动化脚本，简化了环境的配置和部署过程。
 - **开放的 AIDL 接口**: 通过 AIDL (`Android Interface Definition Language`) 暴露核心功能，允许其他应用安全地进行进程间通信和功能调用，方便开发者进行扩展和集成。
 
